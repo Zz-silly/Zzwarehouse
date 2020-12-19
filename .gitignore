@@ -1,0 +1,4 @@
+# 忽略一个index2.html
+index2.html
+#忽略test文件夹
+test/
